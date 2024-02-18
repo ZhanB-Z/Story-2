@@ -1,0 +1,7 @@
+secrets.txt
+
+#This is a comment
+
+
+# *.txt - means all txt files in the directory will be ignored
+
